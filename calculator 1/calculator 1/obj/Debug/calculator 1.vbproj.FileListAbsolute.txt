@@ -1,0 +1,14 @@
+C:\Software\calculator 1\calculator 1\bin\Debug\calculator 1.exe.config
+C:\Software\calculator 1\calculator 1\bin\Debug\calculator 1.exe
+C:\Software\calculator 1\calculator 1\bin\Debug\calculator 1.pdb
+C:\Software\calculator 1\calculator 1\bin\Debug\calculator 1.xml
+C:\Software\calculator 1\calculator 1\obj\Debug\calculator 1.vbprojAssemblyReference.cache
+C:\Software\calculator 1\calculator 1\obj\Debug\VBApp1.Form1.resources
+C:\Software\calculator 1\calculator 1\obj\Debug\VBApp1.Resources.resources
+C:\Software\calculator 1\calculator 1\obj\Debug\calculator 1.vbproj.GenerateResource.cache
+C:\Software\calculator 1\calculator 1\obj\Debug\calculator 1.vbproj.CoreCompileInputs.cache
+C:\Software\calculator 1\calculator 1\obj\Debug\calculator 1.exe
+C:\Software\calculator 1\calculator 1\obj\Debug\calculator 1.xml
+C:\Software\calculator 1\calculator 1\obj\Debug\calculator 1.pdb
+C:\Software\calculator 1\calculator 1\obj\Debug\VBApp1.Form2.resources
+C:\Software\calculator 1\calculator 1\obj\Debug\VBApp1.Form3.resources
